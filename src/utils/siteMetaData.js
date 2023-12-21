@@ -1,16 +1,16 @@
 // please update required information
 const siteMetadata = {
-    title: 'CodeBlogs',
+    title: 'DevBlogs',
     author: 'Yosef Lakew',
-    headerTitle: 'CodeBlogs',
-    description: 'A personal blog website',
+    headerTitle: 'DevBlogs',
+    description: 'A personal blog website for developers',
     language: 'en-us',
     theme: 'system', // system, dark or light
     siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
     siteLogo: '/logo.png',
     socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
+    email: 'jolarohe@gmail.com', 
+    github: 'https://github.com/yoseflakew25',
     twitter: 'https://twitter.com/code_bucks',
     facebook: 'https://facebook.com',
     youtube: 'https://youtube.com/codebucks',
