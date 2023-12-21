@@ -1,4 +1,4 @@
-# CodeBlogs: A personal blog site for developers 🔥
+# DevBlogs: A personal blog site for developers 🔥
 
 ### Screenshots:
 
