@@ -3,7 +3,7 @@ const siteMetadata = {
     title: 'DevBlogs',
     author: 'Yosef Lakew',
     headerTitle: 'DevBlogs',
-    description: 'A personal blog website for developers',
+    description: 'My personal blog website for developers',
     language: 'en-us',
     theme: 'system', // system, dark or light
     siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
