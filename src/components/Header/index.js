@@ -73,12 +73,7 @@ const toggle = () =>{
         <Link href="/categories/all" className="mr-2">
           Blogs
         </Link>
-        <Link href="/about" className="mx-2">
-          About
-        </Link>
-        <Link href="/contact" className="mx-2">
-          Contact
-        </Link>
+
         <button
           onClick={() => setMode(mode === "light" ? "dark" : "light")}
           className={cx(
